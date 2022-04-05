@@ -1,0 +1,1 @@
+npm i express npm i bcrypt@2.4.3 cors@2.8.5 nodemon mongoose morgan jsonwebtoken
